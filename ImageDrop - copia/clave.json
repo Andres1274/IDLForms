@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skillful-gizmo-345515",
+  "private_key_id": "7aeff7d24d8d1a9ddfbd78636be6098d1d10a940",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfXoqQFv1Gjh/y\nwb+LaNqXWKAQlyJhIg7wKMdhZMwemd1HfSdQGALdgtELVEGc1xQYebG/jAb9Evr7\nJNMxKC5pbaZX6qr2AO4QvYgIHOzxZdoBkTgLygbMzJ51qO7ZYX5oMLmo+h0T+yla\nSAN/r/9+GiqoW3eMZSKZk6OqITaBhLuEf9UQYytPFnxCTSbHblN0VBIiLmT9Iuww\n3DuO6u6sTVFQg/uEvUIqzUGEXkAOs+HGmJiinAWfArge5Pz9SmyJcsfgoVHglpXC\nkZfcU7uTfJXLd1H+sC/hai3TMxKi3AiVMNuvwdJCqSAz5CjGJ/FuOyRhPS3Tspdb\n2gcD2x5xAgMBAAECggEAAh59vom1S+zPwUgUxuAPCNYKqLWiWh0OWrlsUNB5vkWT\n65h0ncYoiszxqkOZnsEMnAHVjZ1ouJBsSKMsDMCWliH37MgZaJ2QJKEDsB4EInMm\nqxKjXztCrsE3NKMOZwoNfrQNotyCl5yvov9hZx32lM3vPysk+nRALIhRymynvXlO\nG5G2ia5TVlTpitm03ZkliG1Uhx3gMCzaVmniVHKdKM6sw7wmDm9SI2MpBlpAu/tz\nwisR6TA/iU5nk1bknQgmiWrBjDBMovL9uBfkHtcfTYvDMzEo5zNI0tXgclCIlYZv\nCp+oL7yoSUYV85IWnCr8+x5hhWsctboi/Kzk3XSzMQKBgQDvo8ZyFDL3/BlDRW+O\niML+cjie6U5OZtOp/xwHGUbB9vVXciRCqjdPHs6SIx0ghUKAPFlVSwifJMHxOcwU\nX0JZnKNClT/Dpb3SV24WQN7BH8KBA+/srVbjQF+SwzkYxmtKZyVUwhvM3A4oVomJ\nNDlpbR79e6QgXvf5CL2rqSKJiQKBgQDunmecrCkxgnFIUeP9nQ5NQfvDvUoxH5u7\n9cBPf3F8hADCoSnEWRTLIAwaUwm1UFcIjeulpEzMDV8xBgytxO9xs1ro2wntPV4Z\nIPrcnBPZ9UuiINTd6Z2jdQFuaaQrc6UcCH6v1li1CWYR18d0VayXZo7d/5XpZFKQ\n0Ijv2U37qQKBgQDCNQAGQ8hqoKv4kLUv1jXw77BjWMBVWZAAHPch6aImX3XFQIOS\nY1Aflt/iHwLj8BtMwZvEO+Lo1mk2jZiOigTDiuXkeAANFq0XYjOdZUUhThPbas1u\nCax4zxqlXgFPyr34tk7Sudy90TjICBm+T8yXXA/ZbfI9Kbnc4PCVxaRvwQKBgQDY\nSeUI8lR0eBROxUuvOokYJlMa3Z0+YbQ770ndxVsMzmoSARtmyog6hlXyFoqaOrRp\nIJsUjZS+8O/z89PSPsv7d+NTZhfdXt7IUEiTZzXnPpzL3I6Wh4dH/mrJtiAE8tIa\nUujiYZwOnPJUAg7cuDu1EFU3jNBJuZHNifhVz9cL4QKBgCL3yNN1FvrpVtsUCGIl\nPHn8l+1JVkBXzU/S3uRXql+Z3d1snuQ7WK4kRTKpgMspbve5QN8bdt66bV6raucX\nSXzD8KRIwTc26QjNNXvJtm+dYAcKqhZF+IoCsZRAgPKVAQhj3lKuaTFntT4bG2wV\nSyjdqIA8c/OmQN7aFMI604Vm\n-----END PRIVATE KEY-----\n",
+  "client_email": "maurocred@skillful-gizmo-345515.iam.gserviceaccount.com",
+  "client_id": "104754873185283331128",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maurocred%40skillful-gizmo-345515.iam.gserviceaccount.com"
+}
